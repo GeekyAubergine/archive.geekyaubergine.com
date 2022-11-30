@@ -7,10 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://geekyaubergine.micro.blog/2022/11/30/spotify-wrapped-time.html",
+				
+				"content_html": "<p>Spotify wrapped time. Interesting mix; surprised by Green Day being so high.</p>\n<p>Wish they generated a panel like this themselves rather than having to combine the screenshots myself.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spotify wrapped time. Interesting mix; surprised by Green Day being so high.\r\n\r\nWish they generated a panel like this themselves rather than having to combine the screenshots myself.\n\n<img src=\"uploads/2022/2ce72eb205.png\" width=\"600\" height=\"488\" alt=\"\">\n",
+				"date_published": "2022-11-30T21:42:19+00:00",
+				"url": "https://geekyaubergine.com/2022/11/30/spotify-wrapped-time.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://geekyaubergine.micro.blog/2022/11/27/big-hero-nice.html",
+				
+				"content_html": "<p><a href=\"https://www.imdb.com/title/tt2245084/\">Big Hero 6</a> (2014) 🍿</p>\n<p>4/5 - Nice movie</p>\n",
+				"content_text": "[Big Hero 6](https://www.imdb.com/title/tt2245084/) (2014) 🍿\r\n\r\n4/5 - Nice movie\n",
+				"date_published": "2022-11-27T21:09:42+00:00",
+				"url": "https://geekyaubergine.com/2022/11/27/big-hero-nice.html",
+				"tags": ["Movies"]
+			},
+			{
+				"id": "http://geekyaubergine.micro.blog/2022/11/27/andor-season-easily.html",
+				
+				"content_html": "<p><a href=\"https://www.imdb.com/title/tt9253284/\">Andor</a> (Season 1) 📺</p>\n<p>5/5 - Easily some of the best Star Wars produced</p>\n",
+				"content_text": "[Andor](https://www.imdb.com/title/tt9253284/) (Season 1) 📺\n\n5/5 - Easily some of the best Star Wars produced\n",
+				"date_published": "2022-11-27T18:48:11+00:00",
+				"url": "https://geekyaubergine.com/2022/11/27/andor-season-easily.html",
+				"tags": ["TV"]
+			},
+			{
 				"id": "http://geekyaubergine.micro.blog/2022/11/25/now-post-leaving.html",
 				
-				"content_html": "<p>Now post: <a href=\"https://zoeaubert.me/blog/leaving-the-twitter-nest\">Leaving the Twitter nest</a></p>\n<p>A look back at some of the better tweets I&rsquo;ve put out. Putting this together was a fun trip down memory lane.</p>\n",
-				"content_text": "Now post: [Leaving the Twitter nest](https://zoeaubert.me/blog/leaving-the-twitter-nest)\r\n\r\nA look back at some of the better tweets I've put out. Putting this together was a fun trip down memory lane.\n",
+				"content_html": "<p>New post: <a href=\"https://zoeaubert.me/blog/leaving-the-twitter-nest\">Leaving the Twitter nest</a></p>\n<p>A look back at some of the better tweets I&rsquo;ve put out. Putting this together was a fun trip down memory lane.</p>\n",
+				"content_text": "New post: [Leaving the Twitter nest](https://zoeaubert.me/blog/leaving-the-twitter-nest)\n\nA look back at some of the better tweets I've put out. Putting this together was a fun trip down memory lane.\n",
 				"date_published": "2022-11-25T19:15:48+00:00",
 				"url": "https://geekyaubergine.com/2022/11/25/now-post-leaving.html"
 			},
@@ -143,7 +170,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/10/09/painting-competition-week.html",
 				
 				"content_html": "<p><a href=\"https://geekyaubergine.com/categories/painting-competition-2022/\">Painting competition 2022</a> - Week 1:</p>\n<p>I didn&rsquo;t make much progress this week, these models are very intricate and are taking me much longer than I expected to build. Hopefully, I&rsquo;ll get more done next week, as I&rsquo;m a little worried about missing that deadline at this pace.</p>\n<p><a href=\"https://geekyaubergine.com/2022/10/02/200000.html\">Previous week</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Painting competition 2022](https://geekyaubergine.com/categories/painting-competition-2022/) - Week 1:\n\nI didn't make much progress this week, these models are very intricate and are taking me much longer than I expected to build. Hopefully, I'll get more done next week, as I'm a little worried about missing that deadline at this pace.\n\n[Previous week](https://geekyaubergine.com/2022/10/02/200000.html)\n\n<img src=\"uploads/2022/f0832e5a79.jpg\" width=\"600\" height=\"185\" alt=\"\">\n",
+				"content_text": "[Painting competition 2022](https://geekyaubergine.com/categories/painting-competition-2022/) - Week 1:\n\nI didn't make much progress this week, these models are very intricate and are taking me much longer than I expected to build. Hopefully, I'll get more done next week, as I'm a little worried about missing that deadline at this pace.\n\n[Previous week](https://geekyaubergine.com/2022/10/02/200000.html)\n\n<img src=\"https://geekyaubergine.com/uploads/2022/f0832e5a79.jpg\" width=\"600\" height=\"185\" alt=\"\">\n",
 				"date_published": "2022-10-09T19:10:53+00:00",
 				"url": "https://geekyaubergine.com/2022/10/09/painting-competition-week.html",
 				"tags": ["Warhammer","Painting Competition 2022"]
@@ -161,7 +188,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/10/02/200000.html",
 				
 				"content_html": "<p>This year I decided to take part in a &ldquo;pick a random start collecting box and paint it&rdquo; competition. I happen to pick the <a href=\"https://www.games-workshop.com/en-GB/combat-patrol-genestealer-cults-2022\">Genestealer-Cults</a> box, which was the 4th largest. Which, as a slow painter, is scary. I now have 8 weeks to build, paint and present these models.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This year I decided to take part in a \"pick a random start collecting box and paint it\" competition. I happen to pick the [Genestealer-Cults](https://www.games-workshop.com/en-GB/combat-patrol-genestealer-cults-2022) box, which was the 4th largest. Which, as a slow painter, is scary. I now have 8 weeks to build, paint and present these models.\n\n<img src=\"uploads/2022/a9d35ba7bd.jpg\" width=\"600\" height=\"778\" alt=\"\" />\n",
+				"content_text": "This year I decided to take part in a \"pick a random start collecting box and paint it\" competition. I happen to pick the [Genestealer-Cults](https://www.games-workshop.com/en-GB/combat-patrol-genestealer-cults-2022) box, which was the 4th largest. Which, as a slow painter, is scary. I now have 8 weeks to build, paint and present these models.\n\n<img src=\"https://geekyaubergine.com/uploads/2022/a9d35ba7bd.jpg\" width=\"600\" height=\"778\" alt=\"\" />\n",
 				"date_published": "2022-10-02T19:00:00+00:00",
 				"url": "https://geekyaubergine.com/2022/10/02/200000.html",
 				"tags": ["Warhammer","Painting Competition 2022"]
