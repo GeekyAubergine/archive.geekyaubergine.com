@@ -7,13 +7,22 @@
 	"items": [
 		
 			{
-				"id": "http://geekyaubergine.micro.blog/2023/01/20/lego-time.html",
+				"id": "http://geekyaubergine.micro.blog/2023/01/22/wonderful-display-by.html",
 				
-				"content_html": "<p>☺ Lego time</p>\n",
-				"content_text": "☺ Lego time\n",
-				"date_published": "2023-01-20T20:24:58+00:00",
-				"url": "https://geekyaubergine.com/2023/01/20/lego-time.html",
-				"tags": ["status"]
+				"content_html": "<p>Wonderful display by two short-eared owls yesterday, including a guest appearance from a kestrel. See the <a href=\"https://zoeaubert.me/photos/2023/01/short-eared-owls-2/\">full album</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wonderful display by two short-eared owls yesterday, including a guest appearance from a kestrel. See the [full album](https://zoeaubert.me/photos/2023/01/short-eared-owls-2/)\n\n<img src=\"uploads/2023/f43f4e7a3d.jpg\" width=\"600\" height=\"450\" alt=\"Collage of photos showing various pictures of short-eared owls\">\n",
+				"date_published": "2023-01-22T18:19:00+00:00",
+				"url": "https://geekyaubergine.com/2023/01/22/wonderful-display-by.html",
+				"tags": ["Photography","selfLink"]
+			},
+			{
+				"id": "http://geekyaubergine.micro.blog/2023/01/20/i-couldnt-resist.html",
+				
+				"content_html": "<p>I couldn&rsquo;t resist buying this when I went to London. Lovely little set to get back into building. I forgot how annoying stickers are 🤣</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I couldn't resist buying this when I went to London. Lovely little set to get back into building. I forgot how annoying stickers are 🤣\n\n<img src=\"uploads/2023/d34759f606.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-20T21:18:48+00:00",
+				"url": "https://geekyaubergine.com/2023/01/20/i-couldnt-resist.html",
+				"tags": ["lego"]
 			},
 			{
 				"id": "http://geekyaubergine.micro.blog/2023/01/18/london-makes-my.html",
@@ -25,12 +34,12 @@
 				"tags": ["Travel"]
 			},
 			{
-				"id": "http://geekyaubergine.micro.blog/2023/01/18/first-solo-trip.html",
+				"id": "http://geekyaubergine.micro.blog/2023/01/18/091644.html",
 				
 				"content_html": "<p>💂‍♀️ First solo trip to London 🥳</p>\n",
 				"content_text": "💂‍♀️ First solo trip to London 🥳\n",
 				"date_published": "2023-01-18T09:16:44+00:00",
-				"url": "https://geekyaubergine.com/2023/01/18/first-solo-trip.html",
+				"url": "https://geekyaubergine.com/2023/01/18/091644.html",
 				"tags": ["status"]
 			},
 			{
@@ -43,21 +52,30 @@
 				"tags": ["status"]
 			},
 			{
-				"id": "http://geekyaubergine.micro.blog/2023/01/15/processing-far-too.html",
+				"id": "http://geekyaubergine.micro.blog/2023/01/15/145647.html",
 				
 				"content_html": "<p>📷 Processing far too many long overdue photos</p>\n",
 				"content_text": "📷 Processing far too many long overdue photos\n",
 				"date_published": "2023-01-15T14:56:47+00:00",
-				"url": "https://geekyaubergine.com/2023/01/15/processing-far-too.html",
+				"url": "https://geekyaubergine.com/2023/01/15/145647.html",
 				"tags": ["status"]
 			},
 			{
-				"id": "http://geekyaubergine.micro.blog/2023/01/14/ate-far-too.html",
+				"id": "http://geekyaubergine.micro.blog/2023/01/14/183613.html",
 				
 				"content_html": "<p>😴 Ate far too much at <a href=\"https://www.spoonworldbuffet.co.uk/\">Spoon Buffet</a> and now can&rsquo;t move</p>\n",
 				"content_text": "😴 Ate far too much at [Spoon Buffet](https://www.spoonworldbuffet.co.uk/) and now can't move\n",
 				"date_published": "2023-01-14T18:36:13+00:00",
-				"url": "https://geekyaubergine.com/2023/01/14/ate-far-too.html",
+				"url": "https://geekyaubergine.com/2023/01/14/183613.html",
+				"tags": ["status"]
+			},
+			{
+				"id": "http://geekyaubergine.micro.blog/2023/01/09/first-train-of.html",
+				
+				"content_html": "<p>😑 First train of the year and it’s running late</p>\n",
+				"content_text": "😑 First train of the year and it’s running late\n",
+				"date_published": "2023-01-09T08:48:53+00:00",
+				"url": "https://geekyaubergine.com/2023/01/09/first-train-of.html",
 				"tags": ["status"]
 			},
 			{
@@ -72,10 +90,46 @@
 				"id": "http://geekyaubergine.micro.blog/2023/01/07/finally-seen-a.html",
 				
 				"content_html": "<p>Finally seen a short-eared owl. Well worth getting stupidly wet and cold for 🤣.</p>\n<p>See the <a href=\"https://zoeaubert.me/photos/2023/01/short-eared-owl\">full album</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally seen a short-eared owl. Well worth getting stupidly wet and cold for 🤣.\n\nSee the [full album](https://zoeaubert.me/photos/2023/01/short-eared-owl)\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2023/67a582b4b1.jpg\" width=\"600\" height=\"400\" alt=\"Short-eared owl over grass\">\n<img src=\"https://cdn.uploads.micro.blog/67943/2023/0d27d90a00.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Finally seen a short-eared owl. Well worth getting stupidly wet and cold for 🤣.\n\nSee the [full album](https://zoeaubert.me/photos/2023/01/short-eared-owl)\n\n<img src=\"uploads/2023/67a582b4b1.jpg\" width=\"600\" height=\"400\" alt=\"Short-eared owl over grass\">\n<img src=\"uploads/2023/0d27d90a00.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-01-07T21:45:36+00:00",
 				"url": "https://geekyaubergine.com/2023/01/07/finally-seen-a.html",
 				"tags": ["Photography"]
+			},
+			{
+				"id": "http://geekyaubergine.micro.blog/2023/01/07/214449.html",
+				
+				"content_html": "<p>😀 Finally seen a short-eared owl</p>\n",
+				"content_text": "😀 Finally seen a short-eared owl\n",
+				"date_published": "2023-01-07T21:44:49+00:00",
+				"url": "https://geekyaubergine.com/2023/01/07/214449.html",
+				"tags": ["status"]
+			},
+			{
+				"id": "http://geekyaubergine.micro.blog/2023/01/07/bird-watching-and.html",
+				
+				"content_html": "<p>🦅 Bird watching and getting very wet</p>\n",
+				"content_text": "🦅 Bird watching and getting very wet\n",
+				"date_published": "2023-01-07T14:30:09+00:00",
+				"url": "https://geekyaubergine.com/2023/01/07/bird-watching-and.html",
+				"tags": ["status"]
+			},
+			{
+				"id": "http://geekyaubergine.micro.blog/2023/01/05/first-day-back.html",
+				
+				"content_html": "<p>🙃 First day back at work after 3 weeks off. Time to make computers go bleep bloop again.</p>\n",
+				"content_text": "🙃 First day back at work after 3 weeks off. Time to make computers go bleep bloop again.\n",
+				"date_published": "2023-01-05T09:05:41+00:00",
+				"url": "https://geekyaubergine.com/2023/01/05/first-day-back.html",
+				"tags": ["status"]
+			},
+			{
+				"id": "http://geekyaubergine.micro.blog/2023/01/04/back-to-reality.html",
+				
+				"content_html": "<p>🛫 Back to reality</p>\n",
+				"content_text": "🛫 Back to reality\n",
+				"date_published": "2023-01-04T12:46:01+00:00",
+				"url": "https://geekyaubergine.com/2023/01/04/back-to-reality.html",
+				"tags": ["status"]
 			},
 			{
 				"id": "http://geekyaubergine.micro.blog/2022/12/24/the-amazing-maurice.html",
@@ -98,8 +152,8 @@
 			{
 				"id": "http://geekyaubergine.micro.blog/2022/12/23/worlds-greatest-train.html",
 				
-				"content_html": "<p>World&rsquo;s Greatest Train Journeys from Above (S1) 📺</p>\n<p>5/5 - I know I&rsquo;m a train nerd, but this was fantastic. I think I have some new travel goals. The <a href=\"http://dhr.in.net/\">DHR</a>&rsquo;s <a href=\"http://dhr.in.net/dhr-locomotives.php\">NDM6</a> was a real delight, it reminds me of a mini <a href=\"https://en.wikipedia.org/wiki/British_Rail_Class_08\">Class 08</a> 🥰. Also the <a href=\"https://en.wikipedia.org/wiki/Hudson_Bay_Railway_(1997)\">Hudson Bay Railway</a>&rsquo;s <a href=\"https://www.flickr.com/photos/23711298@N07/3043205943\">green and white stripe livery</a> is 😍</p>\n",
-				"content_text": "World's Greatest Train Journeys from Above (S1) 📺\r\n\r\n5/5 - I know I'm a train nerd, but this was fantastic. I think I have some new travel goals. The [DHR](http://dhr.in.net/)'s [NDM6](http://dhr.in.net/dhr-locomotives.php) was a real delight, it reminds me of a mini [Class 08](https://en.wikipedia.org/wiki/British_Rail_Class_08) 🥰. Also the [Hudson Bay Railway](https://en.wikipedia.org/wiki/Hudson_Bay_Railway_(1997))'s [green and white stripe livery](https://www.flickr.com/photos/23711298@N07/3043205943) is 😍\n",
+				"content_html": "<p><a href=\"https://www.imdb.com/title/tt25436306/\">World&rsquo;s Greatest Train Journeys from Above</a> (S1) 📺</p>\n<p>5/5 - I know I&rsquo;m a train nerd, but this was fantastic. I think I have some new travel goals. The <a href=\"http://dhr.in.net/\">DHR</a>&rsquo;s <a href=\"http://dhr.in.net/dhr-locomotives.php\">NDM6</a> was a real delight, it reminds me of a mini <a href=\"https://en.wikipedia.org/wiki/British_Rail_Class_08\">Class 08</a> 🥰. Also the <a href=\"https://en.wikipedia.org/wiki/Hudson_Bay_Railway_(1997)\">Hudson Bay Railway</a>&rsquo;s <a href=\"https://www.flickr.com/photos/23711298@N07/3043205943\">green and white stripe livery</a> is 😍</p>\n",
+				"content_text": "[World's Greatest Train Journeys from Above](https://www.imdb.com/title/tt25436306/) (S1) 📺\n\n5/5 - I know I'm a train nerd, but this was fantastic. I think I have some new travel goals. The [DHR](http://dhr.in.net/)'s [NDM6](http://dhr.in.net/dhr-locomotives.php) was a real delight, it reminds me of a mini [Class 08](https://en.wikipedia.org/wiki/British_Rail_Class_08) 🥰. Also the [Hudson Bay Railway](https://en.wikipedia.org/wiki/Hudson_Bay_Railway_(1997))'s [green and white stripe livery](https://www.flickr.com/photos/23711298@N07/3043205943) is 😍\n",
 				"date_published": "2022-12-23T15:53:32+00:00",
 				"url": "https://geekyaubergine.com/2022/12/23/worlds-greatest-train.html",
 				"tags": ["Trains","TV"]
@@ -117,7 +171,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/12/22/223000.html",
 				
 				"content_html": "<p>Movie friend</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Movie friend\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/ced7ff5352.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Movie friend\n\n<img src=\"uploads/2022/ced7ff5352.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-22T22:30:00+00:00",
 				"url": "https://geekyaubergine.com/2022/12/22/223000.html",
 				"tags": ["Pets"]
@@ -144,7 +198,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/12/21/yumm.html",
 				
 				"content_html": "<p>Yumm (not pictured, lots of toast)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yumm (not pictured, lots of toast)\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/7ce110b9c5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Yumm (not pictured, lots of toast)\n\n<img src=\"uploads/2022/7ce110b9c5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-21T11:03:23+00:00",
 				"url": "https://geekyaubergine.com/2022/12/21/yumm.html",
 				"tags": ["Food"]
@@ -162,7 +216,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/12/11/finished-my-goff.html",
 				
 				"content_html": "<p>Finished my <a href=\"https://www.games-workshop.com/en-GB/ork-goff-rocker-xmas-promo-2022\">Goff Rocker</a>. Pretty pleased with the result; still a few little touch-ups to do, but for my first Ork, I&rsquo;m very happy, the skin is a lot of fun to highlight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finished my [Goff Rocker](https://www.games-workshop.com/en-GB/ork-goff-rocker-xmas-promo-2022). Pretty pleased with the result; still a few little touch-ups to do, but for my first Ork, I'm very happy, the skin is a lot of fun to highlight.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/e09fcfa66a.jpg\" width=\"600\" height=\"600\" alt=\"Collage of angles of the Goff Rocker Ork by Games Workshop\">\n",
+				"content_text": "Finished my [Goff Rocker](https://www.games-workshop.com/en-GB/ork-goff-rocker-xmas-promo-2022). Pretty pleased with the result; still a few little touch-ups to do, but for my first Ork, I'm very happy, the skin is a lot of fun to highlight.\n\n<img src=\"uploads/2022/e09fcfa66a.jpg\" width=\"600\" height=\"600\" alt=\"Collage of angles of the Goff Rocker Ork by Games Workshop\">\n",
 				"date_published": "2022-12-11T23:30:00+00:00",
 				"url": "https://geekyaubergine.com/2022/12/11/finished-my-goff.html",
 				"tags": ["Warhammer"]
@@ -189,7 +243,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/12/10/very-good-acoustics.html",
 				
 				"content_html": "<p>Very good acoustics here</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Very good acoustics here\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/69dd29b8c4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Very good acoustics here\n\n<img src=\"uploads/2022/69dd29b8c4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-10T18:34:48+00:00",
 				"url": "https://geekyaubergine.com/2022/12/10/very-good-acoustics.html",
 				"tags": ["Musician"]
@@ -207,7 +261,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/12/04/finally-got-a.html",
 				
 				"content_html": "<p>Finally got a chance to start painting my <a href=\"https://www.games-workshop.com/en-GB/ork-goff-rocker-xmas-promo-2022\">Goff Rocker</a>. Ork skin is a lot of fun to paint. Still got a long way to go but not bad for an evening&rsquo;s work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally got a chance to start painting my [Goff Rocker](https://www.games-workshop.com/en-GB/ork-goff-rocker-xmas-promo-2022). Ork skin is a lot of fun to paint. Still got a long way to go but not bad for an evening's work.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/dfb449aff4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Finally got a chance to start painting my [Goff Rocker](https://www.games-workshop.com/en-GB/ork-goff-rocker-xmas-promo-2022). Ork skin is a lot of fun to paint. Still got a long way to go but not bad for an evening's work.\n\n<img src=\"uploads/2022/dfb449aff4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-04T22:58:13+00:00",
 				"url": "https://geekyaubergine.com/2022/12/04/finally-got-a.html",
 				"tags": ["Warhammer"]
@@ -216,7 +270,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/11/30/spotify-wrapped-time.html",
 				
 				"content_html": "<p>Spotify wrapped time. Interesting mix; surprised by Green Day being so high.</p>\n<p>Wish they generated a panel like this themselves rather than having to combine the screenshots myself.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spotify wrapped time. Interesting mix; surprised by Green Day being so high.\r\n\r\nWish they generated a panel like this themselves rather than having to combine the screenshots myself.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/2ce72eb205.png\" width=\"600\" height=\"488\" alt=\"\">\n",
+				"content_text": "Spotify wrapped time. Interesting mix; surprised by Green Day being so high.\r\n\r\nWish they generated a panel like this themselves rather than having to combine the screenshots myself.\n\n<img src=\"uploads/2022/2ce72eb205.png\" width=\"600\" height=\"488\" alt=\"\">\n",
 				"date_published": "2022-11-30T21:42:19+00:00",
 				"url": "https://geekyaubergine.com/2022/11/30/spotify-wrapped-time.html",
 				"tags": ["Music"]
@@ -251,7 +305,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/11/13/painting-competition-week.html",
 				
 				"content_html": "<p><a href=\"https://geekyaubergine.com/categories/painting-competition-2022/\">Painting competition 2022</a> - Week 6:</p>\n<p>After 4 weeks of no progress, thanks to Life™️, it felt good to finally make progress. Got most of the models primed and some base layers down. I&rsquo;m going to miss the deadline for the competition, but I will see this project out.</p>\n<p><a href=\"https://geekyaubergine.com/2022/10/16/painting-competition-week.html\">Previous week</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Painting competition 2022](https://geekyaubergine.com/categories/painting-competition-2022/) - Week 6:\r\n\r\nAfter 4 weeks of no progress, thanks to Life™️, it felt good to finally make progress. Got most of the models primed and some base layers down. I'm going to miss the deadline for the competition, but I will see this project out.\r\n\r\n[Previous week](https://geekyaubergine.com/2022/10/16/painting-competition-week.html)\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/31c1d12f14.jpg\" width=\"600\" height=\"241\" alt=\"Several partly painted genestealer Warhammer models\">\n",
+				"content_text": "[Painting competition 2022](https://geekyaubergine.com/categories/painting-competition-2022/) - Week 6:\r\n\r\nAfter 4 weeks of no progress, thanks to Life™️, it felt good to finally make progress. Got most of the models primed and some base layers down. I'm going to miss the deadline for the competition, but I will see this project out.\r\n\r\n[Previous week](https://geekyaubergine.com/2022/10/16/painting-competition-week.html)\n\n<img src=\"uploads/2022/31c1d12f14.jpg\" width=\"600\" height=\"241\" alt=\"Several partly painted genestealer Warhammer models\">\n",
 				"date_published": "2022-11-13T21:33:44+00:00",
 				"url": "https://geekyaubergine.com/2022/11/13/painting-competition-week.html",
 				"tags": ["Warhammer","Painting Competition 2022"]
@@ -304,7 +358,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/10/30/after-many-years.html",
 				
 				"content_html": "<p>After many years of playing the trumpet, I&rsquo;m giving the French horn a go. Ended up going to the <a href=\"https://www.paxman.co.uk/\">Paxman</a> music store and selecting this horn. While many of the techniques are similar, the difference in fingering positions and <a href=\"https://en.wikipedia.org/wiki/Intonation_(music)#:~:text=In%20music%2C%20intonation%20is%20the,singing%20of%20an%20opening%20phrase.\">intonation</a> makes me feel like a beginner all over again.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After many years of playing the trumpet, I'm giving the French horn a go. Ended up going to the [Paxman](https://www.paxman.co.uk/) music store and selecting this horn. While many of the techniques are similar, the difference in fingering positions and [intonation](https://en.wikipedia.org/wiki/Intonation_(music)#:~:text=In%20music%2C%20intonation%20is%20the,singing%20of%20an%20opening%20phrase.) makes me feel like a beginner all over again.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/47a0c3b93a.jpg\" width=\"600\" height=\"468\" alt=\"French horn sat on a sheet\">\n",
+				"content_text": "After many years of playing the trumpet, I'm giving the French horn a go. Ended up going to the [Paxman](https://www.paxman.co.uk/) music store and selecting this horn. While many of the techniques are similar, the difference in fingering positions and [intonation](https://en.wikipedia.org/wiki/Intonation_(music)#:~:text=In%20music%2C%20intonation%20is%20the,singing%20of%20an%20opening%20phrase.) makes me feel like a beginner all over again.\n\n<img src=\"uploads/2022/47a0c3b93a.jpg\" width=\"600\" height=\"468\" alt=\"French horn sat on a sheet\">\n",
 				"date_published": "2022-10-30T22:21:20+00:00",
 				"url": "https://geekyaubergine.com/2022/10/30/after-many-years.html",
 				"tags": ["Musician"]
@@ -313,7 +367,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/10/27/great-time-at.html",
 				
 				"content_html": "<p>Great time at <a href=\"https://www.marwell.org.uk/\">Marwell Zoo</a> on Tuesday, I got some wonderful pictures despite it being rainy and overcast most of the day. See the <a href=\"https://zoeaubert.me/photos/2022/10/marwell-zoo\">full album</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Great time at [Marwell Zoo](https://www.marwell.org.uk/) on Tuesday, I got some wonderful pictures despite it being rainy and overcast most of the day. See the [full album](https://zoeaubert.me/photos/2022/10/marwell-zoo).\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/4cf54f7d14.jpg\" width=\"480\" height=\"600\" alt=\"Collage of animals including tigers, giraffes, snow leopard, wallaby and a rook\">\n",
+				"content_text": "Great time at [Marwell Zoo](https://www.marwell.org.uk/) on Tuesday, I got some wonderful pictures despite it being rainy and overcast most of the day. See the [full album](https://zoeaubert.me/photos/2022/10/marwell-zoo).\n\n<img src=\"uploads/2022/4cf54f7d14.jpg\" width=\"480\" height=\"600\" alt=\"Collage of animals including tigers, giraffes, snow leopard, wallaby and a rook\">\n",
 				"date_published": "2022-10-27T16:27:48+00:00",
 				"url": "https://geekyaubergine.com/2022/10/27/great-time-at.html",
 				"tags": ["Photography"]
@@ -340,7 +394,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/10/16/painting-competition-week.html",
 				
 				"content_html": "<p><a href=\"https://geekyaubergine.com/categories/painting-competition-2022/\">Painting competition 2022</a> - Week 2:</p>\n<p>Made some good progress this weekend; 21 models are done. That still leaves a squad and the truck. Aiming to have all the models built and primed by next weekend, leaving me about 4 weeks to paint them.</p>\n<p><a href=\"https://geekyaubergine.com/2022/10/09/painting-competition-week.html\">Previous week</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Painting competition 2022](https://geekyaubergine.com/categories/painting-competition-2022/) - Week 2:\n\nMade some good progress this weekend; 21 models are done. That still leaves a squad and the truck. Aiming to have all the models built and primed by next weekend, leaving me about 4 weeks to paint them.\n\n[Previous week](https://geekyaubergine.com/2022/10/09/painting-competition-week.html)\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/4b14e551cd.jpg\" width=\"600\" height=\"181\" alt=\"Several Genestealer Cults minitures  loosely arranged\">\n",
+				"content_text": "[Painting competition 2022](https://geekyaubergine.com/categories/painting-competition-2022/) - Week 2:\n\nMade some good progress this weekend; 21 models are done. That still leaves a squad and the truck. Aiming to have all the models built and primed by next weekend, leaving me about 4 weeks to paint them.\n\n[Previous week](https://geekyaubergine.com/2022/10/09/painting-competition-week.html)\n\n<img src=\"uploads/2022/4b14e551cd.jpg\" width=\"600\" height=\"181\" alt=\"Several Genestealer Cults minitures  loosely arranged\">\n",
 				"date_published": "2022-10-16T22:58:45+00:00",
 				"url": "https://geekyaubergine.com/2022/10/16/painting-competition-week.html",
 				"tags": ["Warhammer","Painting Competition 2022"]
@@ -376,7 +430,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/10/09/painting-competition-week.html",
 				
 				"content_html": "<p><a href=\"https://geekyaubergine.com/categories/painting-competition-2022/\">Painting competition 2022</a> - Week 1:</p>\n<p>I didn&rsquo;t make much progress this week, these models are very intricate and are taking me much longer than I expected to build. Hopefully, I&rsquo;ll get more done next week, as I&rsquo;m a little worried about missing that deadline at this pace.</p>\n<p><a href=\"https://geekyaubergine.com/2022/10/02/200000.html\">Previous week</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Painting competition 2022](https://geekyaubergine.com/categories/painting-competition-2022/) - Week 1:\n\nI didn't make much progress this week, these models are very intricate and are taking me much longer than I expected to build. Hopefully, I'll get more done next week, as I'm a little worried about missing that deadline at this pace.\n\n[Previous week](https://geekyaubergine.com/2022/10/02/200000.html)\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/f0832e5a79.jpg\" width=\"600\" height=\"185\" alt=\"\">\n",
+				"content_text": "[Painting competition 2022](https://geekyaubergine.com/categories/painting-competition-2022/) - Week 1:\n\nI didn't make much progress this week, these models are very intricate and are taking me much longer than I expected to build. Hopefully, I'll get more done next week, as I'm a little worried about missing that deadline at this pace.\n\n[Previous week](https://geekyaubergine.com/2022/10/02/200000.html)\n\n<img src=\"uploads/2022/f0832e5a79.jpg\" width=\"600\" height=\"185\" alt=\"\">\n",
 				"date_published": "2022-10-09T19:10:53+00:00",
 				"url": "https://geekyaubergine.com/2022/10/09/painting-competition-week.html",
 				"tags": ["Warhammer","Painting Competition 2022"]
@@ -394,7 +448,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/10/02/200000.html",
 				
 				"content_html": "<p>This year I decided to take part in a &ldquo;pick a random start collecting box and paint it&rdquo; competition. I happen to pick the <a href=\"https://www.games-workshop.com/en-GB/combat-patrol-genestealer-cults-2022\">Genestealer-Cults</a> box, which was the 4th largest. Which, as a slow painter, is scary. I now have 8 weeks to build, paint and present these models.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This year I decided to take part in a \"pick a random start collecting box and paint it\" competition. I happen to pick the [Genestealer-Cults](https://www.games-workshop.com/en-GB/combat-patrol-genestealer-cults-2022) box, which was the 4th largest. Which, as a slow painter, is scary. I now have 8 weeks to build, paint and present these models.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/a9d35ba7bd.jpg\" width=\"600\" height=\"778\" alt=\"\" />\n",
+				"content_text": "This year I decided to take part in a \"pick a random start collecting box and paint it\" competition. I happen to pick the [Genestealer-Cults](https://www.games-workshop.com/en-GB/combat-patrol-genestealer-cults-2022) box, which was the 4th largest. Which, as a slow painter, is scary. I now have 8 weeks to build, paint and present these models.\n\n<img src=\"uploads/2022/a9d35ba7bd.jpg\" width=\"600\" height=\"778\" alt=\"\" />\n",
 				"date_published": "2022-10-02T19:00:00+00:00",
 				"url": "https://geekyaubergine.com/2022/10/02/200000.html",
 				"tags": ["Warhammer","Painting Competition 2022"]
@@ -403,7 +457,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/10/01/had-a-great.html",
 				
 				"content_html": "<p>Had a great time at <a href=\"https://fareham-mrc.org.uk/railex/\">Fareham Model Railway Exhibition</a>. It was my first time going to a show since moving to the UK, and it did not disappoint. Thanks to the <a href=\"http://www.bridgeburygate.com/\">Bridgeburry Gate</a> team, who thoroughly explained their ingenious n-gauge uncoupling system.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a great time at [Fareham Model Railway Exhibition](https://fareham-mrc.org.uk/railex/). It was my first time going to a show since moving to the UK, and it did not disappoint. Thanks to the [Bridgeburry Gate](http://www.bridgeburygate.com/) team, who thoroughly explained their ingenious n-gauge uncoupling system.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/eed7aebf66.jpg\" width=\"600\" height=\"600\" alt=\"Collage of pictures showing various model railway layouts from the Fareham Model Railway Exhibition\">\n",
+				"content_text": "Had a great time at [Fareham Model Railway Exhibition](https://fareham-mrc.org.uk/railex/). It was my first time going to a show since moving to the UK, and it did not disappoint. Thanks to the [Bridgeburry Gate](http://www.bridgeburygate.com/) team, who thoroughly explained their ingenious n-gauge uncoupling system.\n\n<img src=\"uploads/2022/eed7aebf66.jpg\" width=\"600\" height=\"600\" alt=\"Collage of pictures showing various model railway layouts from the Fareham Model Railway Exhibition\">\n",
 				"date_published": "2022-10-01T18:00:00+00:00",
 				"url": "https://geekyaubergine.com/2022/10/01/had-a-great.html",
 				"tags": ["Trains"]
@@ -421,7 +475,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/09/27/a-couple-of.html",
 				
 				"content_html": "<p>A couple of years late, but nice to finally be able to play The Mandalorian</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A couple of years late, but nice to finally be able to play The Mandalorian\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/0b9019182b.jpg\" width=\"547\" height=\"600\" alt=\"Photo of sheet music for The Mandalorian \">\n",
+				"content_text": "A couple of years late, but nice to finally be able to play The Mandalorian\n\n<img src=\"uploads/2022/0b9019182b.jpg\" width=\"547\" height=\"600\" alt=\"Photo of sheet music for The Mandalorian \">\n",
 				"date_published": "2022-09-27T18:00:00+00:00",
 				"url": "https://geekyaubergine.com/2022/09/27/a-couple-of.html",
 				"tags": ["Musician"]
@@ -439,7 +493,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/08/14/finally-got-round.html",
 				
 				"content_html": "<p>Finally got round to finishing some test models for my new <a href=\"https://warhammer40k.fandom.com/wiki/Tyranids\">Tyranids</a> army. Not all of them are finished, but I <em>think</em> I&rsquo;ve narrowed down what scheme I want to do.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally got round to finishing some test models for my new [Tyranids](https://warhammer40k.fandom.com/wiki/Tyranids) army. Not all of them are finished, but I _think_ I've narrowed down what scheme I want to do.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/70ba2d92b1.jpg\" width=\"577\" height=\"600\" alt=\"Grid of various Tyranid Termagant colour schemes\" />\n",
+				"content_text": "Finally got round to finishing some test models for my new [Tyranids](https://warhammer40k.fandom.com/wiki/Tyranids) army. Not all of them are finished, but I _think_ I've narrowed down what scheme I want to do.\n\n<img src=\"uploads/2022/70ba2d92b1.jpg\" width=\"577\" height=\"600\" alt=\"Grid of various Tyranid Termagant colour schemes\" />\n",
 				"date_published": "2022-08-14T20:41:00+00:00",
 				"url": "https://geekyaubergine.com/2022/08/14/finally-got-round.html",
 				"tags": ["Warhammer"]
@@ -465,7 +519,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/06/11/nice-view-from.html",
 				
 				"content_html": "<p>Nice view from the musician&rsquo;s pit at St Agatha’s RC Church</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice view from the musician's pit at St Agatha’s RC Church\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/f01fbcc77a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Nice view from the musician's pit at St Agatha’s RC Church\n\n<img src=\"uploads/2022/f01fbcc77a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-06-11T09:31:51+00:00",
 				"url": "https://geekyaubergine.com/2022/06/11/nice-view-from.html",
 				"tags": ["Musician"]
@@ -474,7 +528,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/06/04/my-first-civ.html",
 				
 				"content_html": "<p>My first Civ6 domination victory. I got lucky with a pair of early wars, leaving me an entire continent. The Mapuche&rsquo;s <a href=\"https://civilization.fandom.com/wiki/Mapuche_(Civ6)#Toqui\">loyalty tricks</a> are fun, it allowed me to take a few cities and let the rest fall to me through loyalty issues. They&rsquo;re a fun civ to play, I would recommend them.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first Civ6 domination victory. I got lucky with a pair of early wars, leaving me an entire continent. The Mapuche's [loyalty tricks](https://civilization.fandom.com/wiki/Mapuche_(Civ6)#Toqui) are fun, it allowed me to take a few cities and let the rest fall to me through loyalty issues. They're a fun civ to play, I would recommend them.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/4fa2447814.png\" width=\"600\" height=\"331\" alt=\"Civ 6 victor screen showing a domination victory for the Mapuche\" />\n",
+				"content_text": "My first Civ6 domination victory. I got lucky with a pair of early wars, leaving me an entire continent. The Mapuche's [loyalty tricks](https://civilization.fandom.com/wiki/Mapuche_(Civ6)#Toqui) are fun, it allowed me to take a few cities and let the rest fall to me through loyalty issues. They're a fun civ to play, I would recommend them.\n\n<img src=\"uploads/2022/4fa2447814.png\" width=\"600\" height=\"331\" alt=\"Civ 6 victor screen showing a domination victory for the Mapuche\" />\n",
 				"date_published": "2022-06-04T18:19:28+00:00",
 				"url": "https://geekyaubergine.com/2022/06/04/my-first-civ.html",
 				"tags": ["Gaming"]
@@ -492,7 +546,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/05/14/ive-finally-won.html",
 				
 				"content_html": "<p>I&rsquo;ve finally won my first Civ6 game. I was going for a religious victory but somehow ended up with a diplomatic victory. And it was on prince difficulty! (I was worried I&rsquo;d have to lower it). Shout out to <a href=\"https://www.youtube.com/c/PotatoMcWhiskey\">PotatoMcWhiskey</a>&rsquo;s videos, they taught me a lot and re-ignited my interest.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've finally won my first Civ6 game. I was going for a religious victory but somehow ended up with a diplomatic victory. And it was on prince difficulty! (I was worried I'd have to lower it). Shout out to [PotatoMcWhiskey](https://www.youtube.com/c/PotatoMcWhiskey)'s videos, they taught me a lot and re-ignited my interest.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/11510a1600.png\" width=\"600\" height=\"306\" alt=\"\" />\n",
+				"content_text": "I've finally won my first Civ6 game. I was going for a religious victory but somehow ended up with a diplomatic victory. And it was on prince difficulty! (I was worried I'd have to lower it). Shout out to [PotatoMcWhiskey](https://www.youtube.com/c/PotatoMcWhiskey)'s videos, they taught me a lot and re-ignited my interest.\n\n<img src=\"uploads/2022/11510a1600.png\" width=\"600\" height=\"306\" alt=\"\" />\n",
 				"date_published": "2022-05-14T15:53:00+00:00",
 				"url": "https://geekyaubergine.com/2022/05/14/ive-finally-won.html",
 				"tags": ["Gaming"]
@@ -519,7 +573,7 @@
 				"id": "http://geekyaubergine.micro.blog/2022/04/15/farlington-marshes-little.html",
 				
 				"content_html": "<p>Spent some time down at Farlington Marshes and got some great <a href=\"https://zoeaubert.me/photos/2022/04/farlington-marshes\">photos</a></p>\n<p>The Little Egret is easily some of my favourite photos I&rsquo;ve taken.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spent some time down at Farlington Marshes and got some great [photos](https://zoeaubert.me/photos/2022/04/farlington-marshes) \n\nThe Little Egret is easily some of my favourite photos I've taken.\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/7986ed252a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Spent some time down at Farlington Marshes and got some great [photos](https://zoeaubert.me/photos/2022/04/farlington-marshes) \n\nThe Little Egret is easily some of my favourite photos I've taken.\n\n<img src=\"uploads/2022/7986ed252a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2022-04-14T23:00:00+00:00",
 				"url": "https://geekyaubergine.com/2022/04/15/farlington-marshes-little.html",
 				"tags": ["Photography"]
@@ -528,7 +582,7 @@
 				"id": "http://geekyaubergine.micro.blog/2021/07/18/some-glaivewraith-stalkers.html",
 				
 				"content_html": "<p>Some Glaivewraith Stalkers from my tempest of souls box</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some Glaivewraith Stalkers from my tempest of souls box\n\n<div class=\"photogrid\">\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/39ade524e1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/a79f4c5041.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/8e69184027.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/ef09675a05.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/cf859a3937.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n",
+				"content_text": "Some Glaivewraith Stalkers from my tempest of souls box\n\n<div class=\"photogrid\">\n<img src=\"uploads/2022/39ade524e1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/a79f4c5041.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/8e69184027.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/ef09675a05.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/cf859a3937.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n",
 				"date_published": "2021-07-18T14:53:00+00:00",
 				"url": "https://geekyaubergine.com/2021/07/18/some-glaivewraith-stalkers.html",
 				"tags": ["Warhammer"]
@@ -537,7 +591,7 @@
 				"id": "http://geekyaubergine.micro.blog/2021/07/02/painted-up-some.html",
 				
 				"content_html": "<p>Painted up some test models after a long break after my first attempt, and decided to try a few different things</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Painted up some test models after a long break after my first attempt, and decided to try a few different things\n\n<div class=\"photogrid\">\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/988f66341c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/bae72f4da4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/50c44dcd3a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/cc4b04aa74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n",
+				"content_text": "Painted up some test models after a long break after my first attempt, and decided to try a few different things\n\n<div class=\"photogrid\">\n<img src=\"uploads/2022/988f66341c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/bae72f4da4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/50c44dcd3a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/cc4b04aa74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n",
 				"date_published": "2021-07-02T21:43:00+00:00",
 				"url": "https://geekyaubergine.com/2021/07/02/painted-up-some.html",
 				"tags": ["Warhammer"]
@@ -546,7 +600,7 @@
 				"id": "http://geekyaubergine.micro.blog/2021/07/02/223500.html",
 				
 				"content_html": "<p>Throwback to the first model I ever painted a few years ago. Many things I could’ve done better, but I don’t think it’s too bad for a first go</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Throwback to the first model I ever painted a few years ago. Many things I could’ve done better, but I don’t think it’s too bad for a first go\n\n<div class=\"photogrid\">\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/d1a58a0223.jpg\" width=\"530\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/54a39bb38b.jpg\" width=\"530\" height=\"600\" alt=\"\" />\n</div>\n",
+				"content_text": "Throwback to the first model I ever painted a few years ago. Many things I could’ve done better, but I don’t think it’s too bad for a first go\n\n<div class=\"photogrid\">\n<img src=\"uploads/2022/d1a58a0223.jpg\" width=\"530\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/54a39bb38b.jpg\" width=\"530\" height=\"600\" alt=\"\" />\n</div>\n",
 				"date_published": "2021-07-02T21:35:00+00:00",
 				"url": "https://geekyaubergine.com/2021/07/02/223500.html",
 				"tags": ["Warhammer"]
@@ -555,7 +609,7 @@
 				"id": "http://geekyaubergine.micro.blog/2019/10/24/blvnt-the-knife.html",
 				
 				"content_html": "<p><a href=\"https://www.facebook.com/BlvntTheKnife\">Blvnt The Knife</a> at the Acapulco. <a href=\"https://zoeaubert.me/photos/2019/10/blvnt-the-knife-at-the-acapulco\">See the rest of the album</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Blvnt The Knife](https://www.facebook.com/BlvntTheKnife) at the Acapulco. [See the rest of the album](https://zoeaubert.me/photos/2019/10/blvnt-the-knife-at-the-acapulco)\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/f8d19416c0.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"content_text": "[Blvnt The Knife](https://www.facebook.com/BlvntTheKnife) at the Acapulco. [See the rest of the album](https://zoeaubert.me/photos/2019/10/blvnt-the-knife-at-the-acapulco)\n\n<img src=\"uploads/2022/f8d19416c0.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
 				"date_published": "2019-10-23T23:00:00+00:00",
 				"url": "https://geekyaubergine.com/2019/10/24/blvnt-the-knife.html",
 				"tags": ["Photography"]
@@ -564,7 +618,7 @@
 				"id": "http://geekyaubergine.micro.blog/2019/10/24/elysian-fire-at.html",
 				
 				"content_html": "<p><a href=\"https://www.facebook.com/ElysianFire.Band\">Elysian Fire</a> at the Acapulco</p>\n<p>Some of these portraits are among the best I&rsquo;ve taken. <a href=\"https://zoeaubert.me/photos/2019/10/elysian-fire-at-the-acapulco\">See the rest of the album</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Elysian Fire](https://www.facebook.com/ElysianFire.Band) at the Acapulco\n\nSome of these portraits are among the best I've taken. [See the rest of the album](https://zoeaubert.me/photos/2019/10/elysian-fire-at-the-acapulco)\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/120b560123.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "[Elysian Fire](https://www.facebook.com/ElysianFire.Band) at the Acapulco\n\nSome of these portraits are among the best I've taken. [See the rest of the album](https://zoeaubert.me/photos/2019/10/elysian-fire-at-the-acapulco)\n\n<img src=\"uploads/2022/120b560123.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-10-23T23:00:00+00:00",
 				"url": "https://geekyaubergine.com/2019/10/24/elysian-fire-at.html",
 				"tags": ["Photography"]
@@ -573,7 +627,7 @@
 				"id": "http://geekyaubergine.micro.blog/2019/10/21/busking-for-misfits.html",
 				
 				"content_html": "<p><a href=\"https://www.facebook.com/Buskingfm\">Busking For Misfits</a> at <a href=\"https://theguildhallvillage.com/\">The Guildhall Village</a>. <a href=\"http://zoeaubert.me/photos/2019/10/busking-for-misfits-at-the-guildhall-village\">See the rest of the album</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Busking For Misfits](https://www.facebook.com/Buskingfm) at [The Guildhall Village](https://theguildhallvillage.com/). [See the rest of the album](http://zoeaubert.me/photos/2019/10/busking-for-misfits-at-the-guildhall-village)\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/a1a6212272.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "[Busking For Misfits](https://www.facebook.com/Buskingfm) at [The Guildhall Village](https://theguildhallvillage.com/). [See the rest of the album](http://zoeaubert.me/photos/2019/10/busking-for-misfits-at-the-guildhall-village)\n\n<img src=\"uploads/2022/a1a6212272.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-21T22:08:00+00:00",
 				"url": "https://geekyaubergine.com/2019/10/21/busking-for-misfits.html",
 				"tags": ["Photography"]
@@ -582,7 +636,7 @@
 				"id": "http://geekyaubergine.micro.blog/2019/10/18/barn-owl-havenfalconry.html",
 				
 				"content_html": "<p>Barn Owl at Haven Falconry</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Barn Owl at Haven Falconry\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/a4133b3849.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Barn Owl at Haven Falconry\n\n<img src=\"uploads/2022/a4133b3849.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-18T09:00:00+00:00",
 				"url": "https://geekyaubergine.com/2019/10/18/barn-owl-havenfalconry.html",
 				"tags": ["Photography"]
@@ -591,7 +645,7 @@
 				"id": "http://geekyaubergine.micro.blog/2019/10/04/ringtailed-lemurs-at.html",
 				
 				"content_html": "<p>Jersey Zoo. See the rest of the <a href=\"https://zoeaubert.me/photos/2018/06/jersey-zoo\">album</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jersey Zoo. See the rest of the [album](https://zoeaubert.me/photos/2018/06/jersey-zoo)\n\n<div class=\"photogrid\">\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/40e6990565.jpg\" width=\"600\" height=\"900\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/565a6c092e.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n</div>\n",
+				"content_text": "Jersey Zoo. See the rest of the [album](https://zoeaubert.me/photos/2018/06/jersey-zoo)\n\n<div class=\"photogrid\">\n<img src=\"uploads/2022/40e6990565.jpg\" width=\"600\" height=\"900\" alt=\"\" />\n<img src=\"uploads/2022/565a6c092e.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n</div>\n",
 				"date_published": "2019-10-04T09:09:00+00:00",
 				"url": "https://geekyaubergine.com/2019/10/04/ringtailed-lemurs-at.html",
 				"tags": ["Photography"]
@@ -600,7 +654,7 @@
 				"id": "http://geekyaubergine.micro.blog/2019/09/12/jersey-air-display.html",
 				
 				"content_html": "<p>Jersey Air Display 2019</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jersey Air Display 2019\n\n<div class=\"photogrid\">\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/7901f2784a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/ec9143b7f0.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/eb7a03a90a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/4197ad1427.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/1c81a51747.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/30140a4f1c.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/c0d8f21648.jpg\" width=\"600\" height=\"899\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/ee431738c5.jpg\" width=\"600\" height=\"374\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/a88cc4fba5.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/be0f8c24e4.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/23b2a6608d.jpg\" width=\"600\" height=\"900\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/8c6b2233fe.jpg\" width=\"600\" height=\"900\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/d18430521c.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/0cdeb104e4.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/ec257d497b.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/f5a4846706.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/0ed4f07370.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/c5e7495b48.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/9e1145c691.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n\n</div>\n",
+				"content_text": "Jersey Air Display 2019\n\n<div class=\"photogrid\">\n\n<img src=\"uploads/2022/7901f2784a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/ec9143b7f0.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/eb7a03a90a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/4197ad1427.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/1c81a51747.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/30140a4f1c.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/c0d8f21648.jpg\" width=\"600\" height=\"899\" alt=\"\" />\n<img src=\"uploads/2022/ee431738c5.jpg\" width=\"600\" height=\"374\" alt=\"\" />\n<img src=\"uploads/2022/a88cc4fba5.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/be0f8c24e4.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/23b2a6608d.jpg\" width=\"600\" height=\"900\" alt=\"\" />\n<img src=\"uploads/2022/8c6b2233fe.jpg\" width=\"600\" height=\"900\" alt=\"\" />\n<img src=\"uploads/2022/d18430521c.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/0cdeb104e4.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/ec257d497b.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n<img src=\"uploads/2022/f5a4846706.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/0ed4f07370.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n<img src=\"uploads/2022/c5e7495b48.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/9e1145c691.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n\n</div>\n",
 				"date_published": "2019-09-11T23:00:00+00:00",
 				"url": "https://geekyaubergine.com/2019/09/12/jersey-air-display.html",
 				"tags": ["Photography"]
@@ -618,7 +672,7 @@
 				"id": "http://geekyaubergine.micro.blog/2019/09/03/bournemouth-air-festival.html",
 				
 				"content_html": "<p>Bournemouth air festival 2019</p>\n<p>Eurofighter Typhoon</p>\n<!-- raw HTML omitted -->\n<p>Super Pitts Muscle Plane</p>\n<!-- raw HTML omitted -->\n<p>Lancaster bomber</p>\n<!-- raw HTML omitted -->\n<p>Spitfire</p>\n<!-- raw HTML omitted -->\n<p>MiG-15</p>\n<!-- raw HTML omitted -->\n<p>Saab Draken</p>\n<!-- raw HTML omitted -->\n<p>Strikemaster Pair</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bournemouth air festival 2019\n\nEurofighter Typhoon\n\n<div class=\"photogrid\">\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/af9f71a8fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/fbe4a4e138.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n\nSuper Pitts Muscle Plane\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/7cb9272d29.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n\nLancaster bomber\n\n<div class=\"photogrid\">\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/031ccb211d.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/1e51ffa225.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/6e0fe7465e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n\nSpitfire\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/2def5b7ae5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\nMiG-15\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/e0ccd18822.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\nSaab Draken\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/9ddcb32096.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\nStrikemaster Pair\n\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/b21b513425.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Bournemouth air festival 2019\n\nEurofighter Typhoon\n\n<div class=\"photogrid\">\n<img src=\"uploads/2022/af9f71a8fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n<img src=\"uploads/2022/fbe4a4e138.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n\nSuper Pitts Muscle Plane\n\n<img src=\"uploads/2022/7cb9272d29.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n\nLancaster bomber\n\n<div class=\"photogrid\">\n<img src=\"uploads/2022/031ccb211d.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n<img src=\"uploads/2022/1e51ffa225.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n<img src=\"uploads/2022/6e0fe7465e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n\nSpitfire\n\n<img src=\"uploads/2022/2def5b7ae5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\nMiG-15\n\n<img src=\"uploads/2022/e0ccd18822.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\nSaab Draken\n\n<img src=\"uploads/2022/9ddcb32096.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\nStrikemaster Pair\n\n<img src=\"uploads/2022/b21b513425.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-03T14:31:00+00:00",
 				"url": "https://geekyaubergine.com/2019/09/03/bournemouth-air-festival.html",
 				"tags": ["Photography"]
@@ -627,7 +681,7 @@
 				"id": "http://geekyaubergine.micro.blog/2019/08/13/101100.html",
 				
 				"content_html": "<p>Alaskan Bald Eagle from when Liberty&rsquo;s falconry visited Southsea</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Alaskan Bald Eagle from when Liberty's falconry visited Southsea\n\n<div class=\"photogrid\">\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/34b6926777.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/67943/2022/03d1bc4f91.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n",
+				"content_text": "Alaskan Bald Eagle from when Liberty's falconry visited Southsea\n\n<div class=\"photogrid\">\n<img src=\"uploads/2022/34b6926777.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n<img src=\"uploads/2022/03d1bc4f91.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n</div>\n",
 				"date_published": "2019-08-13T09:11:00+00:00",
 				"url": "https://geekyaubergine.com/2019/08/13/101100.html",
 				"tags": ["Photography"]
